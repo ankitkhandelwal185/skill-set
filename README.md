@@ -11,17 +11,17 @@ A complete log of my Software development skills.
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
 | **Nodejs**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
 | **MongoDB**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
-| **Django**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |                |               |
-| **MYSQL**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Django**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |    ![done][done]            |               |
+| **MYSQL**                      | ![done][done]     | ![done][done] | ![done][done] |       ![done][done]           |                |               |
 | **Problem Solving**         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
 | **Data Structures**        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
 | **Algorithms**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
 | **Git**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
-| **Java**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
-| **Android App Development**                | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
-| **C++**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
-| **AWS**       | ![done][done]     | ![done][done] | ![done][done] |       ![done][done]           |                |               |
-| **Publishing Android Apps**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |
+| **JAVA**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Android App Development**                | ![done][done]     | ![done][done] | ![done][done] |     |                |               |
+| **C++**                      | ![done][done]     | ![done][done] | ![done][done] |                 |                |               |
+| **AWS**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Publishing Android Apps**             | ![done][done]     | ![done][done] | ![done][done] |     |                |
 
 **You can connect with me on [LinkedIn](https://www.linkedin.com/in/iwayankit/)**
 
