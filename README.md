@@ -9,9 +9,12 @@ A complete log of my Software development skills.
 
 | Skill                        | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
-| **Nodejs**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
+| **Django**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |    ![done][done]            |      ![done][done]         |
+| **Golang**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |            |               |
+| **Rust**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |            |               |
+| **PostgreSQL**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |    ![done][done]            |               |
+| **Nodejs**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | |
 | **MongoDB**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
-| **Django**               | ![done][done]     | ![done][done] | ![done][done] |      ![done][done]            |    ![done][done]            |               |
 | **MYSQL**                      | ![done][done]     | ![done][done] | ![done][done] |       ![done][done]           |                |               |
 | **Problem Solving**         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
 | **Data Structures**        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
